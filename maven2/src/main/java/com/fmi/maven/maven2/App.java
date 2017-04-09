@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
 	{
-	    new Class1().printMe(null);
+	    new Class1().printMe("master later changed");
 	    //,jhb ghjk bhj k
 	    
 	    
