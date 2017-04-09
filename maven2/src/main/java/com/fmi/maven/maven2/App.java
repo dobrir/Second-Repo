@@ -19,12 +19,9 @@ public class App
 	    //this later change to master branch
 	}
     
-    public Method2(){
-    	return
-    }
 
-    public Method1(){
-    	return
+    public void Method1(){
+    	
     			//here we have master branch
     }
 
