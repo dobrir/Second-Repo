@@ -8,7 +8,9 @@ import com.fmi.maven.maven1.Class1;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public void mmm(){}
+	
+	public static void main( String[] args )
 	{
 	    new Class1().printMe("master later changed");
 	    //,jhb ghjk bhj k
