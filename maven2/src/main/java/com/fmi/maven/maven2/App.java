@@ -18,6 +18,10 @@ public class App
 	    
 	    //this later change to master branch
 	}
+    
+    public Method2(){
+    	return
+    }
 
     public Method1(){
     	return
