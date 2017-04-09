@@ -19,5 +19,9 @@ public class App
 	    //this later change to master branch
 	}
 
+    public Method1(){
+    	return
+    			//here we have master branch
+    }
 
 }
